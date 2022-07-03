@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jyWWxfYUnBF0ixwTaNst82mvgIJaI0YOZjFMp1mgg2pouaEEFTRSdGe3Lo0WMXgppLWtB/TF8cE9WHGhutBuKg==",
+  "success": true,
+  "projectFilePath": "C:\\Lab\\OCR\\OCR\\OCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesle\\.nuget\\packages\\ironocr\\2022.3.0\\ironocr.2022.3.0.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\wesle\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
